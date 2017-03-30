@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900|Prata');
+
+.portz img{
+    height: 100%; width: 100%; object-fit: contain
+  }
+  
+html,body {
+  height:100%;
+}
+
+h1 {
+  font-family: 'Montserrat', serif;
+  font-size:40px;
+  color:#000;
+}
+  
+h2 {
+  font-family: 'Montserrat', serif;
+  font-size:50px;
+  color:#2A2A2A;
+  font-weight: 200;
+  margin-bottom:40px;
+  margin-left: 12px;
+}
+  
+.h3, h3 {
+    font-size: 12px;
+  margin-top: 0px;
+    margin-bottom: 0px;
+}
+  
+.container {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background-color:#FFF;
+    color:#eee;
+  overflow:hidden;
+  background-image: url("http://sethcodes.com/img/paper3.jpg");
+  background-repeat: repeat;
+}
+
+.container a {
+  color:#efefef;
+  text-decoration:none;
+}
+
+.lead {
+    font-family: 'Montserrat', serif;
+    color:#7b7e84;
+    max-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:28px;
+  line-height:93%;
+}
+
+.head-part{
+   height:100vh;
+   padding-top:5%;
+}
+
+
+.row {
+  width:80%;
+    min-width:360px;
+    margin: 0 auto;
+  padding-bottom:30px;
+}
+  
+.row-final {
+
+    min-width:360px;
+    margin: 0 auto;
+  margin-bottom:190px;
+}
+  
+  
+.sigfooter{
+    font-family: 'Montserrat', serif;
+    font-size:13px;
+    font-weight:300;
+    color:#7b7e84;
+}
+
+.sigcontainer img{
+  opacity: 0.6;
+  margin-top:0px;
+
+}
+
+.v-center {
+  margin-top:3.5%;
+}
+
+.contact{
+  max-width:500px;
+  margin: 0 auto;
+  
+}
+
+.footer {
+  background-color: #191919;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  font-weight:300;
+  color: #E3E3E3;
+  position: fixed;
+  padding: 3px;
+  bottom: 0px;
+  width: 100%;
+  height: 40px;
+  vertical-align: middle;
+}
+
+  
+.footer2{
+  font-size:12px;
+  position:relative;
+  top:10px;
+  letter-spacing:1px;
+  text-align:left;
+
+}
+  
+.in-txt {
+  padding:8px;
+  font-size:14px;
+  width: 100%;
+  margin-bottom:20px;
+  border:1px solid #A4A4A4;
+  color: #0F1717;
+  font-family: 'Montserrat', serif;
+}
+
+.button {
+  padding:20px;
+  font-family: 'Montserrat', serif;
+  color: #E3E3E3;
+  background-color: #191919;
+    padding: 15px 32px;
+    text-align: center;
+  border: 0px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
